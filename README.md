@@ -4,7 +4,7 @@ I wanted to use fonts from [U.S. Graphics][] in [Lagrange][]. Because I wanted b
 
 Simply dig out your `.otf` font files, put them in the corresponding directory, and then run `make` at the command line to generate the `.fontpack` file. Then drag the `.fontpack` file onto your Lagrange window to install it.
 
-You may be interested in this sort of thing, but for MB Type fonts. In that case, visit <https://github.com/adiabatic/lagrange-mb-type-fontpacks>.
+I also have fontpacks for both [MB Type][] fonts and also [Atkinson Hyperlegible][].
 
 ## Obvious questions
 
@@ -26,4 +26,6 @@ Then run `make`.
 
 [u.s. graphics]: https://berkeleygraphics.com/
 [lagrange]: https://gmi.skyjake.fi/lagrange/
+[mb type]: https://github.com/adiabatic/lagrange-mb-type-fontpacks
+[atkinson hyperlegible]: https://github.com/adiabatic/lagrange-atkinson-hyperlegible-fontpack
 [cc0]: LICENSE.md
